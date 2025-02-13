@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+pillow
+pytesseract
+sentence-transformers
+sqlite3
